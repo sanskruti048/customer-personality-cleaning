@@ -1,10 +1,10 @@
-# 🧼 Customer Personality Dataset – Data Cleaning Project
+# Customer Personality Dataset – Data Cleaning Project
 
 This project performs essential data cleaning and preprocessing on the **Customer Personality Analysis** dataset. It follows industry-standard steps to prepare the raw dataset for future analysis or modeling tasks.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 We use the **Customer Personality Analysis** dataset (`marketing_campaign.csv`) which contains information about customers, including:
 
@@ -19,7 +19,7 @@ We use the **Customer Personality Analysis** dataset (`marketing_campaign.csv`) 
 
 ---
 
-## 🛠️ Tasks Performed
+## Tasks Performed
 
 ### 1. **Import and Explore Data**
 - Loaded dataset using `pandas` with tab-separated values.
@@ -42,7 +42,7 @@ We use the **Customer Personality Analysis** dataset (`marketing_campaign.csv`) 
 
 ---
 
-## 🧰 Key Libraries Used
+## Key Libraries Used
 
 - `pandas` – for data loading and manipulation  
 - `numpy` – for numerical operations  
@@ -50,3 +50,9 @@ We use the **Customer Personality Analysis** dataset (`marketing_campaign.csv`) 
 - `datetime` – for handling date-type conversion
 
 ---
+
+## Author
+
+
+**Sanskruti Sugandhi**  
+🔗 GitHub: [@sanskruti048](https://github.com/sanskruti048)
